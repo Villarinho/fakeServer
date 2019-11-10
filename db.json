@@ -1,5 +1,32 @@
     
 {
+      "pesquisas": [
+    {
+      "id_tipologia": 1,
+      "nome": "Tipologia 1"
+      "busca": "certidao protesto"  
+    },
+    {
+      "id_tipologia": 2,
+      "nome": "Teste 2"
+      "busca": "certidao protesto"
+    },
+    {
+      "id_tipologia": 3,
+      "nome": "Lagosta"
+      "busca": "lagosta"  
+    },
+    {
+      "id_tipologia": 4,
+      "nome": "Siri"
+      "busca": "siri"  
+    },
+    {
+      "id_tipologia": 5,
+      "nome": "Camarão"
+      "busca": "camarao"  
+    },
+          
   "resposta": {
     "_links": {
       "comentario": {
