@@ -30,7 +30,29 @@
       "id_tipologia": 6,
       "nome": "Topázio",
       "busca": "topázio"  
-    }],
+    },
+       {
+      "id_tipologia": 7,
+      "nome": "Quartzo",
+      "busca": "Quartzo"  
+    },
+       {
+      "id_tipologia": 8,
+      "nome": "Turmalina",
+      "busca": "Turmalina"  
+    },
+       {
+      "id_tipologia": 9,
+      "nome": "Opala",
+      "busca": "Opala"  
+    },
+      {
+      "id_tipologia": 10,
+      "nome": "Chevete",
+      "busca": "Chevete"  
+    },
+    { "id_tipologia": 11,"nome": "Fusca","busca": "Fusca" }
+      ],
 
           
   "resposta": {
