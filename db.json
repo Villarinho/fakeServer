@@ -36,14 +36,10 @@
       "nome": "Quartzo",
       "busca": "Quartzo"  
     },
-       {
-      "id_tipologia": 8,
-      "nome": "Turmalina",
-      "busca": "Turmalina"  
-    },
+      {"id_tipologia": 8,  "nome": "Turmalina", "busca": "Turmalina"},
       { "id_tipologia": 9,  "nome": "Opala", "busca": "Opala" },
       {"id_tipologia": 10, "nome": "Chevete","busca": "Chevete"},
-      {"id_tipologia": 11, "nome": "Fusca","busca": "Fusca" }
+      {"id_tipologia": 11, "nome": "Fusca","busca": "Fusca" },
       {"id_tipologia": 12, "nome": "Gol","busca": "Gol" }
       ],
 "html":["1","qwerty","lorsm ipso"] ,       
