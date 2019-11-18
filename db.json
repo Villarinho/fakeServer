@@ -15,21 +15,13 @@
       "nome":"Exigência de quitação fiscal e/ou trabalhista ",
       "busca":"quitação fiscal trabalhista"
     },
-    { 
-      "id_tipologia":4,
-      "nome":"Vedação à apresentação de esclarecimentos, impugnações e recursos via postal, fax ou e-mail",
-      "busca":"vedação esclarecimentos impugnação recurso"
-    },
+    
     { 
       "id_tipologia":5,
       "nome":"Vedação à participação de empresas em recuperação judicial",
       "busca":"recuperação judicial"
     },
-    { 
-      "id_tipologia":6,
-      "nome":"Exigência de alvará ou outra comprovação de localização do licitante em um município específico",
-      "busca":"localização município"
-    },
+    
     { 
       "id_tipologia":7,
       "nome":"Não parcelamento do objeto sem justificativa",
