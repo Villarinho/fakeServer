@@ -23,6 +23,11 @@
     },
     
     { 
+      "id_tipologia":6,
+      "nome":"Exigência de produtos de fabricação nacional",
+      "busca":"fabricação nacional"
+    },
+    { 
       "id_tipologia":7,
       "nome":"Não parcelamento do objeto sem justificativa",
       "busca":"adjudicação por preço global"
