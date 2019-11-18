@@ -2,12 +2,12 @@
   "pesquisas":[ 
     { 
       "id_tipologia":1,
-      "nome":"Tipologia 1",
-      "busca":"certidao protesto"
+      "nome":"Certificado de Boas Práticas de Fabricação e Controle",
+      "busca":"boa prática"
     },
     { 
       "id_tipologia":2,
-      "nome":"Teste 2",
+      "nome":"Vedação à participação de empresas em recuperação judicial",
       "busca":"certidao protesto"
     },
     { 
