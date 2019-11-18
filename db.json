@@ -12,54 +12,39 @@
     },
     { 
       "id_tipologia":3,
-      "nome":"Lagosta",
-      "busca":"lagosta"
+      "nome":"Exigência de quitação fiscal e/ou trabalhista ",
+      "busca":"quitação fiscal trabalhista"
     },
     { 
       "id_tipologia":4,
-      "nome":"Siri",
-      "busca":"siri"
+      "nome":"Vedação à apresentação de esclarecimentos, impugnações e recursos via postal, fax ou e-mail",
+      "busca":"vedação esclarecimentos impugnação recurso"
     },
     { 
       "id_tipologia":5,
-      "nome":"Camarão",
-      "busca":"camarao"
+      "nome":"Vedação à participação de empresas em recuperação judicial",
+      "busca":"recuperação judicial"
     },
     { 
       "id_tipologia":6,
-      "nome":"Topázio",
-      "busca":"topázio"
+      "nome":"Exigência de alvará ou outra comprovação de localização do licitante em um município específico",
+      "busca":"localização município"
     },
     { 
       "id_tipologia":7,
-      "nome":"Quartzo",
-      "busca":"Quartzo"
+      "nome":"Não parcelamento do objeto sem justificativa",
+      "busca":"adjudicação por preço global"
     },
     { 
       "id_tipologia":8,
-      "nome":"Turmalina",
-      "busca":"Turmalina"
+      "nome":"Exigência de entrega de amostra na fase de habilitação",
+      "busca":"amostra habilitação"
     },
     { 
       "id_tipologia":9,
-      "nome":"Opala",
-      "busca":"Opala"
+      "nome":"Exigência de apresentação de certificado de qualidade ISO",
+      "busca":"qualidade ISO"
     },
-    { 
-      "id_tipologia":10,
-      "nome":"Chevete",
-      "busca":"Chevete"
-    },
-    { 
-      "id_tipologia":11,
-      "nome":"Fusca",
-      "busca":"Fusca"
-    },
-    { 
-      "id_tipologia":12,
-      "nome":"Gol",
-      "busca":"Gol"
-    }
   ],
   "trechos":[ 
     "Os Princípios Fundamentais de Auditoria no nível 3 (ISSAI 100-999) decorrem e foram elaborados a partir da ISSAI 1 – A Declaração de Lima e das ISSAI de nível 2, e fornecem uma estrutura normativa de referência internacional definindo a auditoria do setor público.<p>O nível 4 traduz os Princípios Fundamentais de Auditoria em diretrizes operacionais mais específicas e detalhadas que podem ser usadas diariamente na realização de auditorias e também como normas de auditoria, quando normas nacionais de auditoria não tenham sido desenvolvidas. Este nível engloba as Diretrizes Gerais de Auditoria (ISSAI 1000- 4999), que estabelecem os requisitos para auditorias financeiras, operacionais e de conformidade.Nível 1",
