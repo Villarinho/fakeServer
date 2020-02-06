@@ -1,5 +1,5 @@
-{ 
-  "campos":{ 
+{
+  "campos":{
     "UASG":"30001 - TCU-TRIBUNAL DE CONTAS DA UNIAO/DF",
     "Órgão":"3000 - TRIBUNAL DE CONTAS DA UNIAO",
     "Modalidade":"Preg\u00e3o Eletr\u00f4nico – Fornecimento e ",
@@ -7,5 +7,23 @@
     "Objeto":"Preg\u00e3o Eletr\u00f4nico – Fornecimento e ...",
     "Publicação":"20/04/2017",
     "Valor Realizado":"R$176.000,00"
-  }
+  },
+  "Arquivos":[
+    [
+      "0300010500102017.zip",
+      "/alice/api/.../294397"
+    ],
+    [
+      "0300010500102017/Edital.pdf",
+      "Edital, termo de referência"
+    ],
+    [
+      "0300010500102017/Anexo2.pdf",
+      "Declaração"
+    ],
+    [
+      "0300010500102017/Ata.html",
+      "Ata de pregão"
+    ]
+  ]
 }
