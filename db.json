@@ -73,21 +73,18 @@
       "colunas":[ 
         "Item",
         "Descrição",
-        "Quantidade",
-        "Tratamento Dif."
+        "Quantidade"
       ],
       "dados":[ 
         [ 
           1,
           "Vacina Humana",
-          3520,
-          "Sim"
+          12
         ],
         [ 
           2,
-          "Vacina bovima",
-          35210,
-          "Não"
+          "Vacina canina",
+          123
         ]
       ]
     }
