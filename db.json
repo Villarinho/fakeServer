@@ -1,5 +1,5 @@
-{
-  "campos":{
+{ 
+  "campos":{ 
     "UASG":"30001 - TCU-TRIBUNAL DE CONTAS DA UNIAO/DF",
     "Órgão":"3000 - TRIBUNAL DE CONTAS DA UNIAO",
     "Modalidade":"Preg\u00e3o Eletr\u00f4nico – Fornecimento e ",
@@ -8,22 +8,65 @@
     "Publicação":"20/04/2017",
     "Valor Realizado":"R$176.000,00"
   },
-  "Arquivos":[
-    [
+  "Arquivos":[ 
+    [ 
       "0300010500102017.zip",
       "/alice/api/.../294397"
     ],
-    [
+    [ 
       "0300010500102017/Edital.pdf",
       "Edital, termo de referência"
     ],
-    [
+    [ 
       "0300010500102017/Anexo2.pdf",
       "Declaração"
     ],
-    [
+    [ 
       "0300010500102017/Ata.html",
       "Ata de pregão"
     ]
+  ],
+  "Análises":[ 
+    [ 
+      "EST.001 - Valor Estimado",
+      "R$251.398,40 [<a href=http.google.com target=_blank>arquivo.pdf</a>]"
+    ],
+    [ 
+      "EST.002 - Materialidade",
+      "O valor da licitação encontra-se acima de <span style=\"color:red\">50%<\/span> das compras habituais desta unidade."
+    ],
+    [ 
+      "CLF.OBJ - Classificador de Objeto",
+      "Obra<span class=\"fa fa-road\" aria-hidden=\"true\"><\/span>"
+    ],
+    [ 
+      "SQL.C01 - Licitante Único ⚠️",
+      "Vencedor: CPF/CNPJ: <span class=cnpj>99.999.999/0001-99<\/span> - VIGILANCIA PATRIMONIAL "
+    ]
+  ],
+  "Tabelas":[ 
+    { 
+      "nome":"Itens",
+      "colunas":[ 
+        "Item",
+        "Descrição",
+        "Quantidade",
+        "Tratamento Dif."
+      ],
+      "dados":[ 
+        [ 
+          1,
+          "Vacina Humana",
+          3520,
+          "Sim"
+        ],
+        [ 
+          2,
+          "Vacina bovima",
+          35210,
+          "Não"
+        ]
+      ]
+    }
   ]
 }
