@@ -33,7 +33,7 @@
     ],
     [ 
       "EST.002 - Materialidade",
-      "O valor da licitação encontra-se acima de <span style=\"color:red\">50%<\/span> das compras habituais desta unidade."
+      "O valor da licitação encontra-se acima de <span class=\"materialidade\" nivel=5>50%<\/span> das compras habituais desta unidade."
     ],
     [ 
       "CLF.OBJ - Classificador de Objeto",
