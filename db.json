@@ -29,11 +29,11 @@
   "Análises":[ 
     [ 
       "EST.001 - Valor Estimado",
-      "R$251.398,40 [<a href=http.google.com target=_blank>arquivo.pdf</a>]"
+      "R$251.398,40 arquivo.pdf"
     ],
     [ 
       "EST.002 - Materialidade",
-      "O valor da licitação encontra-se acima de <span class=materialidade nivel=5>50%<\/span> das compras habituais desta unidade."
+      "O valor da licitação encontra-se acima de <span class=\"materialidade\" nivel=5>50%<\/span> das compras habituais desta unidade."
     ],
     [ 
       "CLF.OBJ - Classificador de Objeto",
@@ -41,7 +41,7 @@
     ],
     [ 
       "SQL.C01 - Licitante Único ⚠️",
-      "Vencedor: CPF/CNPJ: <span class=cnpj>99.999.999/0001-99<\/span> - VIGILANCIA PATRIMONIAL "
+      "Vencedor: CPF/CNPJ: <span cnpj>99.999.999/0001-99<\/span> - VIGILANCIA PATRIMONIAL "
     ]
   ],
   "Tabelas":[ 
